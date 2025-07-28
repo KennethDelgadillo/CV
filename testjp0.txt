@@ -1,0 +1,26 @@
+Position Type
+Trust
+
+Job Objective
+Collaborate in the development and implementation of artificial intelligence solutions by performing technical tasks under guidance and supervision to ensure the delivery of digital products.
+
+Responsibilities and Activities
+Enable the construction of AI models by ensuring the quality and availability of data.
+Contribute to the development of AI solutions by implementing and validating models under supervision.
+Ensure the proper functionality of models in production environments by providing support for their deployment and integration.
+Experience
+Development and maintenance of machine learning models.
+Solid experience with cloud platforms, preferably Google Cloud Platform (Vertex AI, Cloud Run, etc.).
+Knowledge
+Strong fundamentals in machine learning (supervised and unsupervised).
+Proficiency in Python and key libraries such as Pandas, NumPy, and Scikit-learn.
+Familiarity with the operation of LLMs (Large Language Models) and prompt engineering concepts.
+Basic knowledge of REST APIs, version control (Git), and networking concepts for service exposure.
+Basic understanding of principles of AI ethics (bias, fairness) and data security.
+Intermediate-advanced English level.
+Education
+Bachelor’s Degree in Data Science or related fields.
+Complementary Profile
+Experience
+Certifications
+Language

@@ -1,0 +1,5 @@
+John Doe
+Software Engineer with 5 years of experience in Python, JavaScript, and machine learning.
+Worked at TechCorp from 2018 to 2028 developing web applications and data analysis tools.
+Skilled in NLP, data visualization, and cloud computing.
+Bachelor's degree in Computer Science from State University.
